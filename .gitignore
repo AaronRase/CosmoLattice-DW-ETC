@@ -1,0 +1,30 @@
+# Build directory
+build/
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+
+# Object and library files
+*.o
+*.a
+*.so
+
+# Simulation output
+*.h5
+*.hdf5
+*.log
+
+# Editor files
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Temporary archive of old HPC build directories
+archive/
+
+dependencies/MyPFFT/
