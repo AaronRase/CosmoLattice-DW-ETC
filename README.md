@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21394491.svg)](https://doi.org/10.5281/zenodo.21394491)
+
 # CosmoLattice-DW-ETC
 
 This repository contains extensions to the CosmoLattice framework developed during the PhD research of Aäron Rase (Vrije Universiteit Brussel).
