@@ -1,5 +1,3 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21394491.svg)](https://doi.org/10.5281/zenodo.21394491)
-
 # CosmoLattice-DW-ETC
 
 This repository contains extensions to the CosmoLattice framework developed during the PhD research of Aäron Rase (Vrije Universiteit Brussel).
@@ -163,9 +161,6 @@ If you use this software in scientific work, please cite:
 
 - the original CosmoLattice publication: <a href=https://arxiv.org/pdf/2102.01031.pdf target="_blank" rel="noopener noreferrer" > arXiv:2102.01031</a> and <a href=https://arxiv.org/pdf/2006.15122.pdf target="_blank" rel="noopener noreferrer" > arXiv:2006.15122</a>;
 - the associated publication based on this repository (<a href=https://arxiv.org/pdf/2511.16649 target="_blank" rel="noopener noreferrer" > arXiv:2511.16649</a>);
-
-
-A `CITATION.cff` file will be provided for citation metadata.
 
 ---
 
