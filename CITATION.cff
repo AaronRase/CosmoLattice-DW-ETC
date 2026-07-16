@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+title: "CosmoLattice-DW-ETC"
+type: software
+
+message: "If you use this software in your research, please cite the software DOI below. If relevant, also cite the associated publication."
+
+authors:
+  - family-names: "Rase"
+    given-names: "Aäron"
+
+repository-code: "https://github.com/AaronRase/CosmoLattice-DW-ETC"
+
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.21394491"
+
+license: "MIT"
+
+version: "1.0.1"
+
+references:
+  - type: article
+    title: "Domain walls in the scaling regime: Equal Time Correlator and Gravitational Waves"
+    authors:
+      - family-names: "Blasi"
+        given-names: "Simone"
+      - family-names: "Mariotti"
+        given-names: "Alberto"
+      - family-names: "Rase"
+        given-names: "Aäron"
+      - family-names: "Vanvlasselaer"
+        given-names: "Miguel"
+    journal: "Journal of Cosmology and Astroparticle Physics"
+    year: 2026
+    doi: "10.1088/1475-7516/2026/06/053"
