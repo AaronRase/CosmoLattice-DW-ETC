@@ -1,6 +1,6 @@
 # CosmoLattice-DW-ETC
 
-This repository contains extensions to the CosmoLattice framework developed during the PhD research of Aäron Rase (Vrije Universiteit Brussel).
+This repository contains extensions to the CosmoLattice framework developed during the PhD research of Aäron Rase (Vrije Universiteit Brussel), used in <a href=https://arxiv.org/pdf/2511.16649 target="_blank" rel="noopener noreferrer" > arXiv:2511.16649</a>
 
 The software extends CosmoLattice with functionality for
 
