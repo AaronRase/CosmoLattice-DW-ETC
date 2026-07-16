@@ -147,7 +147,7 @@ Run the executable according to the standard CosmoLattice workflow.
 
 ## Scientific background
 
-The software was developed during the PhD research of
+The extensions to the CosmoLattice framework were developed during the PhD research of
 
 **Aäron Rase**
 
