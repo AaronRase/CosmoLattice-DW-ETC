@@ -66,9 +66,9 @@ where `Pconst` represents the square root of the variance of the initial scalar 
 
 ---
 
-### Calculating the Wall Correlation Length (`Xi`)
+### Calculating the area parameter (`Xi`)
 
-The wall correlation length `Xi` can be calculated during the simulation by configuring the following parameters in the input file.
+The area parameter `Xi` can be calculated during the simulation by configuring the following parameters in the input file.
 
 First, set the output frequency:
 
