@@ -58,7 +58,7 @@ Run the executable according to the standard CosmoLattice workflow.
 
 The software was developed during the PhD research of
 
-**Aaron Rase**
+**Aäron Rase**
 
 Vrije Universiteit Brussel (VUB)
 
