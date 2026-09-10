@@ -7,7 +7,8 @@ The software extends CosmoLattice with functionality for
 - cosmological domain wall simulations;
 - Equal-Time Correlator (ETC) calculations;
 - additional measurement routines;
-- additional field initialisation routines.
+- additional field initialisation routines;
+- possibility to make snapshots of the scalar field.
 
 ---
 
@@ -131,6 +132,15 @@ tOutputInfreq = <time step>
 This parameter determines the frequency of ETC output during the simulation.
 
 ---
+
+### Snapshot of scalar field
+
+To make a snapshot of the scalar field, the following needs to be done in the input file:
+
+```ini
+energy_snapshot = S
+```
+
 ## Running a simulation
 
 An example parameter file is provided:
