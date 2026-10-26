@@ -170,7 +170,7 @@ for numerical studies of cosmological domain walls and Equal-Time Correlators.
 If you use this software in scientific work, please cite:
 
 - the original CosmoLattice publication: <a href=https://arxiv.org/pdf/2102.01031.pdf target="_blank" rel="noopener noreferrer" > arXiv:2102.01031</a> and <a href=https://arxiv.org/pdf/2006.15122.pdf target="_blank" rel="noopener noreferrer" > arXiv:2006.15122</a>;
-- the associated publication based on this repository (<a href=https://arxiv.org/pdf/2511.16649 target="_blank" rel="noopener noreferrer" > arXiv:2511.16649</a>) (accompanying data can be found on [Zenodo](https://doi.org/10.5281/zenodo.22796120);
+- the associated publication based on this repository (<a href=https://arxiv.org/pdf/2511.16649 target="_blank" rel="noopener noreferrer" > arXiv:2511.16649</a>) (accompanying data can be found on [Zenodo](https://doi.org/10.5281/zenodo.22796120));
 
 ---
 
